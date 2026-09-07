@@ -1,0 +1,5 @@
+{
+  "api_token": "【ユーザー API トークン】",
+  "record_name": "【DNS 対象のサブドメイン dns.example.com】",
+  "zone_id": "【対象ドメインのゾーン ID】"
+}
